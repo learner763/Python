@@ -3,7 +3,7 @@ This is a GUI interface developed using *Tkinter in Python*.It allows you to pre
 ## Key Considerations
 There were two key events to be taken care off.
 
-A team should not get more than two points if the button is clicked more than once.
+A team _should not get more than two points_ if the button is clicked more than once.
 
-A user should be able to change the winner of the match by pressing other button.
+A user _should be able to change the winner_ of the match by pressing other team's button.
 

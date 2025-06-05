@@ -7,3 +7,7 @@ A team _should not get more than two points_ if the button is clicked more than 
 
 A user _should be able to change the winner_ of the match by pressing other team's button.
 
+# TicTacToe Game (tictactoe.py)
+This is a tictactoe game written in Python.You can play it on any size of arena.
+
+

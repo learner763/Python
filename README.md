@@ -1,5 +1,6 @@
 # Cricket World Cup 2023 Points Table Predictor (CWC23.py)
-https://docs.google.com/videos/d/19i6LhmxMAUNXl07sqruVkQt_pUQeRs_tzjg1VjLrFmQ/edit?scene=id.p#scene=id.p
+
+https://docs.google.com/videos/d/1nKhVUk15SF5yh_yUBBQ0ZOzC30WoYOIr-BfAtBXl_9g/edit?scene=id.p#scene=id.p
 
 This is a GUI interface developed using *Tkinter in Python*.It allows you to predict results of Cricket World Cup 2023 by choosing winners in group games and knockouts.A game between two teams is displayed as two buttons with name of teams written on them.To declare the winner of a particular game,you press the button with a team name that you think will win.In this way,points table will keep shaping up accordingly.
 ## Key Considerations
